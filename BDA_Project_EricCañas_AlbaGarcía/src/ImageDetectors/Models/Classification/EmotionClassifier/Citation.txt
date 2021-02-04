@@ -1,0 +1,4 @@
+The keras pretrained model for emotion recognition implemented used into this project, is freely offered by
+the user BishalLakha. Download it from his own repository, and put it into this folder as 'emotion_recognition.h5'
+
+Github: https://github.com/BishalLakha/Facial-Expression-Recognition-with-Keras

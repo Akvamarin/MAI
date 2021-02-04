@@ -1,0 +1,1 @@
+This model for Face Detection is offered by OpenCV and can be easily found in their open source projects

@@ -1,0 +1,22 @@
+The model used for Age prediction is an implementation of the following papers proposals.
+
+@article{Rothe-IJCV-2018,
+  author = {Rasmus Rothe and Radu Timofte and Luc Van Gool},
+  title = {Deep expectation of real and apparent age from a single image without facial landmarks},
+  journal = {International Journal of Computer Vision},
+  volume={126},
+  number={2-4},
+  pages={144--157},
+  year={2018},
+  publisher={Springer}
+}
+
+@InProceedings{Rothe-ICCVW-2015,
+  author = {Rasmus Rothe and Radu Timofte and Luc Van Gool},
+  title = {DEX: Deep EXpectation of apparent age from a single image},
+  booktitle = {IEEE International Conference on Computer Vision Workshops (ICCVW)},
+  year = {2015},
+  month = {December},
+}
+
+It is gently offered by their own authors.

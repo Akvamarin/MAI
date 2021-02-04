@@ -1,0 +1,20 @@
+id, object
+0, road
+1, sidewalk
+2, build
+3, fence
+4, wall
+5, vegetation
+6, terrain
+7, car
+8, bicycle
+9, bus
+10, truck
+11, train
+12, motorcycle
+13, sky
+14, pole
+15, traffic sign
+16, traffic light
+17, person
+18, rider

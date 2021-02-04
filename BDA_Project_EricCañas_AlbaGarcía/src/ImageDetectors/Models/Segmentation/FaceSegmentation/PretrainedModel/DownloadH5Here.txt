@@ -1,0 +1,7 @@
+PretrainedModel Implementation by: https://github.com/shaoanlu/face_toolbox_keras
+This code is a porting made by shaoanlu, of the FaceParser model implemented in
+PyTorch by: zllrunning/face-parsing.PyTorch.
+Delivered under MIT license by its original author.
+
+Download the associated model from his repository (https://github.com/shaoanlu/face_toolbox_keras), and put it
+into this folder with the name 'BiSeNet_keras.h5'. (Please also star him by his great open source contribution).
